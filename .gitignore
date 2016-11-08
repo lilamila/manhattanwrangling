@@ -1,0 +1,13 @@
+/sample.osm2.json
+/sample.osm.json
+/sample.osm
+/runoff/
+/ignore/
+/lessonnotes/
+
+
+*.pyc
+*.docx
+*.tmp
+.RData
+.Rhistory
